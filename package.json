@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "bootstrap": "4.6.2",
-    "//": "Comment",
     "chartist": "0.11.0",
     "es6-promise": "4.2.8",
     "eslint-plugin-vue": "^9.8.0",
